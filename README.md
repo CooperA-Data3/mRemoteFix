@@ -22,6 +22,6 @@ Instructions:
 MANUAL INSTRUCTIONS:
 
 1. Go to C:\Windows\System32\drivers\etc and delete all files in the "etc" folder
-2. In the folder this note is in, (C:\Users\YourUsername\Documents\mRemoteFix) there should be a file named "hosts".
+2. In the folder this note is in, (C:\Users\YourUsername\Documents\mRemoteFix) there should be a file named "hosts". If there isn't, there will be a backup
 3. Copy that file, and paste it in the "C:\Windows\System32\drivers\etc" folder, then run "Finish_Up.bat". This will restart your PC, so save your work.
 4. Your PC will restart. Once it has booted back up, open mRemoteNG, and try to connect to a VM. If you get the same error as before, I tried lol.
